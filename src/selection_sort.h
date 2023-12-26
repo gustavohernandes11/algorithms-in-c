@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "utils/swap.h"
+#include "../utils/swap.h"
 
 int* selection_sort(int numbers[], int length){
     int min_index, i, j;
