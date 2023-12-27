@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "../utils/print_array.h"
 
 void *merge(int numbers[], int begin, int mid, int end)
 {
